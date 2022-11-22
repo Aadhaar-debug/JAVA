@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> ?>
+<car id="1">
+    <name>verna</name>
+    <amount>12.0</amount>
+    <color>Black</color>
+</car>
